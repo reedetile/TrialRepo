@@ -1,0 +1,7 @@
+#list of files + file types not tracked by git
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.pdf
+#*.pdf means we are no longer tracking pdfs
